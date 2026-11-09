@@ -1,0 +1,537 @@
+{
+  "stats": {
+    "card": [
+      {
+        "id": 1,
+        "title": "Total Orders",
+        "value": "5600",
+        "subtitle": "Last 30 days",
+        "color":"#E6F1FB",
+        "chartUrl": "https://www.pngall.com/wp-content/uploads/10/Line-Chart-PNG-Image-HD.png"
+      },
+      {
+        "id": 2,
+        "title": "Total Revenue",
+        "value": "$33,320",
+        "subtitle": "Last 30 days",
+        "color":"#FBEAF0",
+        "chartUrl": "https://www.pngall.com/wp-content/uploads/10/Line-Chart-PNG-Image-HD.png"
+      }
+    ]
+  },
+  "activities": [
+    "User John Doe created a new order",
+    "User Jane Smith updated their profile",
+    "User Bob Johnson deleted an item"
+  ],
+  "TopSellingPProducts": {
+    "TopSelling": [
+      {
+        "id": "#2783",
+        "name": "iPhone 12",
+        "price": 599,
+        "sales": "854",
+        "status": "not available",
+        "stock": 12
+      },
+      {
+        "id": "#8344",
+        "name": "iPhone 15 pro",
+        "price": 699,
+        "sales": "845",
+        "status": "in Stock",
+        "stock": 3
+      },
+      {
+        "id": "$9273",
+        "name": "iPhone 16",
+        "price": 899,
+        "sales": "1645",
+        "status": "out of Stock",
+        "stock": 4
+      },
+      {
+        "id": "#2973",
+        "name": "MacBook Pro",
+        "price": 1500,
+        "sales": "4841",
+        "status": "in Stock",
+        "stock": 25
+      },
+      {
+        "id": "#5699",
+        "name": "iPad Pro",
+        "price": 500,
+        "sales": "495",
+        "status": "in Stock",
+        "stock": 65
+      },
+      {
+        "id": "#1034",
+        "name": "Apple Watch Series 6",
+        "price": 120,
+        "sales": "6476",
+        "status": "in Stock",
+        "stock": 3
+      },
+      {
+        "id": "#4353",
+        "name": "Apple Watch Series 6",
+        "price": 120,
+        "sales": "6476",
+        "status": "in Stock",
+        "stock": 22
+      },
+      {
+        "id": "#4322",
+        "name": "Apple Watch Series 6",
+        "price": 120,
+        "sales": "6476",
+        "status": "in Stock",
+        "stock": 35
+      },
+      {
+        "id": "#4345",
+        "name": "Apple Watch Series 6",
+        "price": 120,
+        "sales": "6476",
+        "status": "in Stock",
+        "stock": 3
+      },
+      {
+        "id": "8734",
+        "name": "Apple Watch Series 6",
+        "price": 120,
+        "sales": "6476",
+        "status": "in Stock",
+        "stock": 31
+      },
+      {
+        "id": "0234",
+        "name": "Apple Watch Series 6",
+        "price": 120,
+        "sales": "6476",
+        "status": "in Stock",
+        "stock": 0
+      }
+    ]
+  },
+  "NewProduct": {
+    "NewProducts": [
+      {
+        "id": "1",
+        "name": "Apple Watch Series 10",
+        "price": 399,
+        "brand": "Apple",
+        "img": "https://www.apple.com/v/watch/br/images/overview/select/product_s10__c724044usymq_large_2x.png"
+      },
+      {
+        "id": "2",
+        "name": "Apple Watch Series 10",
+        "price": 399,
+        "brand": "Apple",
+        "img": "https://www.apple.com/v/watch/br/images/overview/select/product_s10__c724044usymq_large_2x.png"
+      },
+      {
+        "id": "3",
+        "name": "Apple Watch Series 10",
+        "price": 399,
+        "brand": "Apple",
+        "img": "https://www.apple.com/v/watch/br/images/overview/select/product_s10__c724044usymq_large_2x.png"
+      },
+      {
+        "id": "4",
+        "name": "Apple Watch Series 10",
+        "price": 399,
+        "brand": "Apple",
+        "img": "https://www.apple.com/v/watch/br/images/overview/select/product_s10__c724044usymq_large_2x.png"
+      }
+    ]
+  },
+  "AllProducts": {
+    "AllProduct": [
+      {
+        "id": 1,
+        "section": "Electronics",
+        "name": "MacBook Air M2",
+        "brand": "Apple",
+        "price": 99999,
+        "description": "13-inch MacBook Air with M2 chip, 8GB RAM, and 256GB SSD storage.",
+        "stock": 15,
+        "rating": 4.8
+      },
+      {
+        "id": 2,
+        "section": "Electronics",
+        "name": "Dell XPS 13",
+        "brand": "Dell",
+        "price": 114999,
+        "description": "Premium ultrabook with Intel i7, 16GB RAM, and 512GB SSD.",
+        "stock": 8,
+        "rating": 4.6
+      },
+      {
+        "id": 3,
+        "section": "Electronics",
+        "name": "Asus ROG Strix ",
+        "brand": "Asus",
+        "price": 129999,
+        "description": "Gaming laptop with Ryzen 9, RTX 3070, and 1TB SSD.",
+        "stock": 12,
+        "rating": 4.7
+      },
+      {
+        "id": 4,
+        "section": "Electronics",
+        "name": "HP Pavilion 15",
+        "brand": "HP",
+        "price": 74999,
+        "description": "Intel i5 12th Gen, 8GB RAM, and 512GB SSD laptop for everyday use.",
+        "stock": 20,
+        "rating": 4.4
+      },
+      {
+        "id": 5,
+        "section": "Electronics",
+        "name": "Lenovo Legion 5",
+        "brand": "Lenovo",
+        "price": 119999,
+        "description": "High-performance gaming laptop with AMD Ryzen 7 and RTX 3060.",
+        "stock": 10,
+        "rating": 4.6
+      },
+      {
+        "id": 6,
+        "section": "Electronics",
+        "name": "Acer Predator Helios ",
+        "brand": "Acer",
+        "price": 109999,
+        "description": "Gaming laptop with Intel i7, RTX 3060, and RGB keyboard.",
+        "stock": 6,
+        "rating": 4.5
+      },
+      {
+        "id": 7,
+        "section": "Electronics",
+        "name": "Apple iPad Pro ",
+        "brand": "Apple",
+        "price": 112999,
+        "description": "M2 chip, Liquid Retina XDR display, and Apple Pencil support.",
+        "stock": 14,
+        "rating": 4.9
+      },
+      {
+        "id": 8,
+        "section": "Electronics",
+        "name": "Samsung Galaxy Tab S9",
+        "brand": "Samsung",
+        "price": 98999,
+        "description": "AMOLED display, Snapdragon 8 Gen 2, and S-Pen included.",
+        "stock": 18,
+        "rating": 4.7
+      },
+      {
+        "id": 9,
+        "section": "Electronics",
+        "name": "Microsoft Surface Pro 9",
+        "brand": "Microsoft",
+        "price": 139999,
+        "description": "2-in-1 tablet/laptop with Intel i7 and 16GB RAM.",
+        "stock": 7,
+        "rating": 4.8
+      },
+      {
+        "id": 10,
+        "section": "Electronics",
+        "name": "LG UltraGear Monitor ",
+        "brand": "LG",
+        "price": 34999,
+        "description": "27-inch QHD gaming monitor with 165Hz refresh rate.",
+        "stock": 25,
+        "rating": 4.5
+      },
+      {
+        "id": 11,
+        "section": "Electronics",
+        "name": "Samsung G7 Monitor",
+        "brand": "Samsung",
+        "price": 45999,
+        "description": "32-inch curved gaming monitor with 240Hz refresh rate.",
+        "stock": 13,
+        "rating": 4.6
+      },
+      {
+        "id": 12,
+        "section": "Electronics",
+        "name": "Apple iMac M1",
+        "brand": "Apple",
+        "price": 129999,
+        "description": "All-in-one desktop with M1 chip and Retina 4.5K display.",
+        "stock": 5,
+        "rating": 4.8
+      },
+      {
+        "id": 13,
+        "section": "Electronics",
+        "name": "Dell Alienware R13",
+        "brand": "Dell",
+        "price": 189999,
+        "description": "High-end gaming PC with Intel i9 and RTX 3080.",
+        "stock": 4,
+        "rating": 4.7
+      },
+      {
+        "id": 14,
+        "section": "Electronics",
+        "name": "Corsair One i300",
+        "brand": "Corsair",
+        "price": 214999,
+        "description": "Compact gaming PC with Intel i9, RTX 3080 Ti, and 64GB RAM.",
+        "stock": 3,
+        "rating": 4.9
+      },
+      {
+        "id": 15,
+        "section": "Electronics",
+        "name": "HP Omen Desktop",
+        "brand": "HP",
+        "price": 199999,
+        "description": "Powerful desktop for gaming and editing with water cooling.",
+        "stock": 6,
+        "rating": 4.7
+      },
+      {
+        "id": 16,
+        "section": "Electronics",
+        "name": "Razer Blade 15",
+        "brand": "Razer",
+        "price": 169999,
+        "description": "Slim gaming laptop with RTX 3070 Ti and 240Hz QHD display.",
+        "stock": 9,
+        "rating": 4.6
+      },
+      {
+        "id": 17,
+        "section": "Electronics",
+        "name": "Asus ZenBook Pro",
+        "brand": "Asus",
+        "price": 174999,
+        "description": "Dual-screen laptop with 4K OLED display and RTX 3060.",
+        "stock": 8,
+        "rating": 4.8
+      },
+      {
+        "id": 18,
+        "section": "Electronics",
+        "name": "Lenovo ThinkPad X1",
+        "brand": "Lenovo",
+        "price": 144999,
+        "description": "Business laptop with Intel i7, 16GB RAM, and 1TB SSD.",
+        "stock": 11,
+        "rating": 4.7
+      },
+      {
+        "id": 19,
+        "section": "Electronics",
+        "name": "Acer Swift X",
+        "brand": "Acer",
+        "price": 89999,
+        "description": "Portable laptop with Ryzen 7, RTX 3050 Ti, and 14-inch display.",
+        "stock": 17,
+        "rating": 4.5
+      },
+      {
+        "id": 20,
+        "section": "Electronics",
+        "name": "Gigabyte AERO 16",
+        "brand": "Gigabyte",
+        "price": 154999,
+        "description": "Creator laptop with Intel i9, RTX 3070 Ti, and AMOLED display.",
+        "stock": 7,
+        "rating": 4.6
+      }
+    ]
+  },
+
+  "orders": {
+    "Order":[
+  {
+    "orderId": "ORD1001",
+    "customer": "Rahul Sharma",
+    "status": "Pending",
+    "date": "Jan 6",
+    "totalAmount": 2499,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD1002",
+    "customer": "Priya Verma",
+    "status": "Shipped",
+    "date": "Feb 14",
+    "totalAmount": 1799,
+    "quantity":4,
+    "product": "iPhone 12  "
+  },
+  {
+    "orderId": "ORD1003",
+    "customer": "Amit Kumar",
+    "status": "Delivered",
+    "date": "Mar 3",
+    "totalAmount": 3299,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD1004",
+    "customer": "Neha Singh",
+    "status": "Cancelled",
+    "date": "Apr 21",
+    "totalAmount": 1499,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD1005",
+    "customer": "Vikram Patel",
+    "status": "Pending",
+    "date": "May 10",
+    "totalAmount": 2199,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD1006",
+    "customer": "Sneha Joshi",
+    "status": "Delivered",
+    "date": "Jun 17",
+    "totalAmount": 4999,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD1007",
+    "customer": "Ankit Mehta",
+    "status": "Shipped",
+    "date": "Jul 5",
+    "totalAmount": 2799,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD1008",
+    "customer": "Ravi Gupta",
+    "status": "Pending",
+    "date": "Aug 19",
+    "totalAmount": 1999,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD1009",
+    "customer": "Pooja Yadav",
+    "status": "Delivered",
+    "date": "Sep 30",
+    "totalAmount": 3699
+  },
+  {
+    "orderId": "ORD1010",
+    "customer": "Manish Pandey",
+    "status": "Shipped",
+    "date": "Oct 12",
+    "totalAmount": 2599,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD10011",
+    "customer": "Rahul Sharma",
+    "status": "Pending",
+    "date": "Jan 6",
+    "totalAmount": 2499,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD1012",
+    "customer": "Priya Verma",
+    "status": "Shipped",
+    "date": "Feb 14",
+    "totalAmount": 1799,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD10013",
+    "customer": "Amit Kumar",
+    "status": "Delivered",
+    "date": "Mar 3",
+    "totalAmount": 3299,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD10014",
+    "customer": "Neha Singh",
+    "status": "Cancelled",
+    "date": "Apr 21",
+    "totalAmount": 1499,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD10015",
+    "customer": "Vikram Patel",
+    "status": "Pending",
+    "date": "May 10",
+    "totalAmount": 2199,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD10016",
+    "customer": "Sneha Joshi",
+    "status": "Delivered",
+    "date": "Jun 17",
+    "totalAmount": 4999,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD10017",
+    "customer": "Ankit Mehta",
+    "status": "Shipped",
+    "date": "Jul 5",
+    "totalAmount": 2799,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD10018",
+    "customer": "Ravi Gupta",
+    "status": "Pending",
+    "date": "Aug 19",
+    "totalAmount": 1999,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD10019",
+    "customer": "Pooja Yadav",
+    "status": "Delivered",
+    "date": "Sep 30",
+    "totalAmount": 3699,
+    "quantity":4,
+    "product": "iPhone 12"
+  },
+  {
+    "orderId": "ORD1020",
+    "customer": "Manish Pandey",
+    "status": "Shipped",
+    "date": "Oct 12",
+    "totalAmount": 2599,
+    "quantity":4,
+    "product": "iPhone 12"
+  }
+]}
+}

@@ -1,0 +1,472 @@
+[
+  {
+    "id": 1,
+    "name": "James Carter",
+    "email": "james.carter@gmail.com",
+    "phone": "+1 415 234 5678",
+    "dob": "1995-05-12",
+    "location": "San Francisco, USA",
+    "status": "Active",
+    "spend": 12000,
+    "lastOnline": "2025-08-16T10:30:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1001",
+        "date": "2025-07-10",
+        "items": ["Laptop Bag", "Wireless Mouse"],
+        "total": 3200,
+        "status": "Delivered"
+      },
+      {
+        "orderId": "ORD1002",
+        "date": "2025-08-01",
+        "items": ["Smartphone"],
+        "total": 8800,
+        "status": "Shipped"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sophie Williams",
+    "email": "sophie.williams@gmail.com",
+    "phone": "+44 7911 234567",
+    "dob": "1993-11-22",
+    "location": "London, UK",
+    "status": "Inactive",
+    "spend": 4500,
+    "lastOnline": "2025-08-14T15:15:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1003",
+        "date": "2025-06-25",
+        "items": ["Jacket", "Jeans"],
+        "total": 2200,
+        "status": "Delivered"
+      },
+      {
+        "orderId": "ORD1004",
+        "date": "2025-07-30",
+        "items": ["Handbag"],
+        "total": 2300,
+        "status": "Delivered"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Lucas Müller",
+    "email": "lucas.muller@gmail.com",
+    "phone": "+49 30 12345678",
+    "dob": "1998-01-05",
+    "location": "Berlin, Germany",
+    "status": "Active",
+    "spend": 7600,
+    "lastOnline": "2025-08-17T09:05:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1005",
+        "date": "2025-07-11",
+        "items": ["Headphones"],
+        "total": 2600,
+        "status": "Delivered"
+      },
+      {
+        "orderId": "ORD1006",
+        "date": "2025-08-05",
+        "items": ["Shoes"],
+        "total": 5000,
+        "status": "Processing"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Yuki Tanaka",
+    "email": "yuki.tanaka@gmail.com",
+    "phone": "+81 3 1234 5678",
+    "dob": "1996-09-17",
+    "location": "Tokyo, Japan",
+    "status": "Active",
+    "spend": 15000,
+    "lastOnline": "2025-08-16T20:40:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1007",
+        "date": "2025-07-05",
+        "items": ["Dress", "Sandals"],
+        "total": 7500,
+        "status": "Delivered"
+      },
+      {
+        "orderId": "ORD1008",
+        "date": "2025-07-29",
+        "items": ["Makeup Kit"],
+        "total": 7500,
+        "status": "Delivered"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Noah Thompson",
+    "email": "noah.thompson@gmail.com",
+    "phone": "+1 604 345 6789",
+    "dob": "1992-03-28",
+    "location": "Vancouver, Canada",
+    "status": "Inactive",
+    "spend": 2200,
+    "lastOnline": "2025-07-28T12:00:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1009",
+        "date": "2025-07-03",
+        "items": ["T-shirt"],
+        "total": 1200,
+        "status": "Delivered"
+      },
+      {
+        "orderId": "ORD1010",
+        "date": "2025-07-18",
+        "items": ["Sunglasses"],
+        "total": 1000,
+        "status": "Delivered"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Camille Dubois",
+    "email": "camille.dubois@gmail.com",
+    "phone": "+33 1 23 45 67 89",
+    "dob": "1994-07-15",
+    "location": "Paris, France",
+    "status": "Active",
+    "spend": 11200,
+    "lastOnline": "2025-08-16T14:50:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1011",
+        "date": "2025-07-08",
+        "items": ["Designer Dress"],
+        "total": 5600,
+        "status": "Delivered"
+      },
+      {
+        "orderId": "ORD1012",
+        "date": "2025-07-25",
+        "items": ["Gold Earrings"],
+        "total": 5600,
+        "status": "Delivered"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Mateo García",
+    "email": "mateo.garcia@gmail.com",
+    "phone": "+34 91 234 5678",
+    "dob": "1997-12-12",
+    "location": "Madrid, Spain",
+    "status": "Active",
+    "spend": 4800,
+    "lastOnline": "2025-08-15T22:30:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1013",
+        "date": "2025-07-12",
+        "items": ["Shoes"],
+        "total": 2800,
+        "status": "Delivered"
+      },
+      {
+        "orderId": "ORD1014",
+        "date": "2025-08-02",
+        "items": ["T-shirt"],
+        "total": 2000,
+        "status": "Shipped"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Olivia Bennett",
+    "email": "olivia.bennett@gmail.com",
+    "phone": "+61 2 1234 5678",
+    "dob": "1999-10-21",
+    "location": "Sydney, Australia",
+    "status": "Active",
+    "spend": 6500,
+    "lastOnline": "2025-08-17T07:45:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1015",
+        "date": "2025-07-20",
+        "items": ["Laptop Stand"],
+        "total": 1500,
+        "status": "Delivered"
+      },
+      {
+        "orderId": "ORD1016",
+        "date": "2025-08-06",
+        "items": ["Wireless Keyboard"],
+        "total": 5000,
+        "status": "Processing"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Chen Wei",
+    "email": "chen.wei@gmail.com",
+    "phone": "+86 10 1234 5678",
+    "dob": "1990-06-02",
+    "location": "Shanghai, China",
+    "status": "Inactive",
+    "spend": 3700,
+    "lastOnline": "2025-07-31T09:55:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1017",
+        "date": "2025-06-15",
+        "items": ["Books"],
+        "total": 1200,
+        "status": "Delivered"
+      },
+      {
+        "orderId": "ORD1018",
+        "date": "2025-07-10",
+        "items": ["Shoes"],
+        "total": 2500,
+        "status": "Delivered"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Aisha Al-Rashid",
+    "email": "aisha.alrashid@gmail.com",
+    "phone": "+971 50 123 4567",
+    "dob": "1998-08-30",
+    "location": "Dubai, UAE",
+    "status": "Active",
+    "spend": 8200,
+    "lastOnline": "2025-08-17T11:25:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1019",
+        "date": "2025-07-22",
+        "items": ["Smartwatch"],
+        "total": 4200,
+        "status": "Delivered"
+      },
+      {
+        "orderId": "ORD1020",
+        "date": "2025-08-09",
+        "items": ["Handbag"],
+        "total": 4000,
+        "status": "Processing"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Ethan Park",
+    "email": "ethan.park@gmail.com",
+    "phone": "+82 2 1234 5678",
+    "dob": "1990-08-18",
+    "location": "Seoul, South Korea",
+    "status": "Active",
+    "spend": 3999,
+    "lastOnline": "2025-08-16T18:45:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1021",
+        "date": "2025-07-15",
+        "items": ["Bluetooth Speaker"],
+        "total": 3999,
+        "status": "Delivered"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Fatima Hassan",
+    "email": "fatima.hassan@gmail.com",
+    "phone": "+20 2 1234 5678",
+    "dob": "1994-02-11",
+    "location": "Cairo, Egypt",
+    "status": "Inactive",
+    "spend": 750,
+    "lastOnline": "2025-07-20T12:30:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1022",
+        "date": "2025-06-10",
+        "items": ["Wallet"],
+        "total": 750,
+        "status": "Delivered"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Liam O'Brien",
+    "email": "liam.obrien@gmail.com",
+    "phone": "+353 1 234 5678",
+    "dob": "1995-09-09",
+    "location": "Dublin, Ireland",
+    "status": "Active",
+    "spend": 6400,
+    "lastOnline": "2025-08-15T17:25:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1023",
+        "date": "2025-07-18",
+        "items": ["Sneakers", "Cap"],
+        "total": 6400,
+        "status": "Delivered"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Isabella Rossi",
+    "email": "isabella.rossi@gmail.com",
+    "phone": "+39 06 1234 5678",
+    "dob": "1997-04-25",
+    "location": "Rome, Italy",
+    "status": "Active",
+    "spend": 2500,
+    "lastOnline": "2025-08-11T09:20:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1024",
+        "date": "2025-07-28",
+        "items": ["Handbag"],
+        "total": 2500,
+        "status": "Delivered"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Carlos Mendes",
+    "email": "carlos.mendes@gmail.com",
+    "phone": "+55 11 1234 5678",
+    "dob": "1991-05-02",
+    "location": "São Paulo, Brazil",
+    "status": "Inactive",
+    "spend": 540,
+    "lastOnline": "2025-07-22T16:10:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1025",
+        "date": "2025-06-17",
+        "items": ["Notebook"],
+        "total": 540,
+        "status": "Delivered"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Amara Okafor",
+    "email": "amara.okafor@gmail.com",
+    "phone": "+234 801 234 5678",
+    "dob": "1993-07-15",
+    "location": "Lagos, Nigeria",
+    "status": "Active",
+    "spend": 3200,
+    "lastOnline": "2025-08-16T11:40:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1026",
+        "date": "2025-07-09",
+        "items": ["Wrist Watch"],
+        "total": 3200,
+        "status": "Delivered"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Emma Johansson",
+    "email": "emma.johansson@gmail.com",
+    "phone": "+46 8 123 456 78",
+    "dob": "1992-12-29",
+    "location": "Stockholm, Sweden",
+    "status": "Active",
+    "spend": 9500,
+    "lastOnline": "2025-08-17T08:50:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1027",
+        "date": "2025-07-30",
+        "items": ["Tablet"],
+        "total": 9500,
+        "status": "Delivered"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Priya Nair",
+    "email": "priya.nair@gmail.com",
+    "phone": "+65 8123 4567",
+    "dob": "1996-06-06",
+    "location": "Singapore",
+    "status": "Inactive",
+    "spend": 1150,
+    "lastOnline": "2025-07-26T13:45:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1028",
+        "date": "2025-06-29",
+        "items": ["Scarf"],
+        "total": 1150,
+        "status": "Delivered"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Mohamed El-Amin",
+    "email": "mohamed.elamin@gmail.com",
+    "phone": "+212 5 1234 5678",
+    "dob": "1990-03-19",
+    "location": "Casablanca, Morocco",
+    "status": "Active",
+    "spend": 7300,
+    "lastOnline": "2025-08-16T22:05:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1029",
+        "date": "2025-07-19",
+        "items": ["Gaming Chair"],
+        "total": 7300,
+        "status": "Delivered"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Zoe Patel",
+    "email": "zoe.patel@gmail.com",
+    "phone": "+1 212 345 6789",
+    "dob": "1995-01-11",
+    "location": "New York, USA",
+    "status": "Active",
+    "spend": 2800,
+    "lastOnline": "2025-08-15T19:55:00Z",
+    "orders": [
+      {
+        "orderId": "ORD1030",
+        "date": "2025-07-12",
+        "items": ["Backpack"],
+        "total": 2800,
+        "status": "Delivered"
+      }
+    ]
+  }
+]
